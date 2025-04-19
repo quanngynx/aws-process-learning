@@ -156,6 +156,8 @@ AWS Management Console là giao diện web cho phép quản lý và tương tác
 
 # Tài liệu tham khảo
 
+[awsstudygroup](https://000001.awsstudygroup.com/)
+
 [AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
 
 [AWS Security Best Practices](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html)
